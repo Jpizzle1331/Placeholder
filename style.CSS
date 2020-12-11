@@ -1,0 +1,20 @@
+.container{
+    width: 100vw;
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.mask1{
+height:  15vh;
+display: flex;
+margin: 1.5vh 0;
+}
+.mask2{
+    width:10vw;
+    
+    }
+    .mask1:hover{
+        height: 15vh;
+        border:2px solid black;
+        }
+    
